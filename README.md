@@ -14,7 +14,7 @@ Practica-sistemas-distribuidos-de-tiempo-real/
 │   ├── service2/         # Servicio 2
 ├── nginx/                # Configuraciones para el balanceador de carga Nginx
 ├── service.proto         # Definición de servicios con Protobuf
-├── docker-compose.yml    # Orquestación de contenedores con Docker Compose
+├── nginx.Dockerfile      # Dockerfile con imagen de nginx con config personalizada
 └── README.md             # Este archivo
 ~~~
 
